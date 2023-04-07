@@ -88,3 +88,4 @@ This challenge is completely free. Please share it with anyone who will find it 
 # QR-code-scaner-
 # QR-code-scaner-
 # QR-code-scaner-
+# QR-code-scaner-
